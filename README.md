@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @TusharDahibhate
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in pretty much everything. I like to think of myself as a jack of all trades. 
+- 🌱 I’m currently learning golang and trying to master the art of orchestrating containers in kubernetes.
 - 📫 How to reach me ...
-
-<!---
-TusharDahibhate/TusharDahibhate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    - Drop me an email at tushar.h.dahibhate@gmail.com or a Twitter DM should work as well 😄
