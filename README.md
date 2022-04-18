@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TusharDahibhate
 - 👀 I’m interested in pretty much everything. I like to think of myself as a jack of all trades. 
-- 🌱 I’m currently learning golang and trying to master the art of orchestrating containers in kubernetes.
+- 🌱 In my free time, I am trying to master the art of orchestrating containers in kubernetes.
+- 💻 Currently, orchestrating a premium Gerrit code review system on Kuberernetes and enabling Datadog in a highly complex Code Distribution system @ Qualcomm.
 - 📫 How to reach me ...
     - Drop me an email at tushar.h.dahibhate@gmail.com or a Twitter DM should work as well 😄
